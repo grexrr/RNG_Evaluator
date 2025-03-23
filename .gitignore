@@ -1,0 +1,14 @@
+# Ignore generated data and plots
+csv_data/
+pdf_graph/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore LaTeX build files (if any)
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
